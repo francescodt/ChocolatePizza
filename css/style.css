@@ -1,0 +1,177 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /* margin-left: 60px;
+    margin-right: 60px; */
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+/* ----- header ----- */
+
+#mainlogo {
+    float: left;
+    text-align: left;
+    padding-right: 10px;
+
+}
+
+header h2 {
+    display: inline;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    font-style: italic;
+
+}
+
+header p {
+    font-variant: small-caps;
+    font-size: 15px;
+    color: grey
+
+}
+
+header li {
+    display: inline-block;
+
+}
+
+header ul {
+    float: right;
+}
+
+header {
+    border-image: url(/images/hr-img.png) 25 30 10 20 repeat;
+    /* border-image-repeat: 1000; */
+    border: 10px solid transparent;
+    /* border-image-width: 10px; */
+
+}
+
+/* ----- main ----- */
+
+.mainwrap {
+    clear: both;
+
+}
+
+.mainwrap h3 {
+    color: black;
+    font-family: 'Passion One', cursive;
+    font-style: bold;
+    font-size: 45px;
+}
+
+.printside p {
+    float: right;
+
+}
+
+main {
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+.mainwrap {
+    text-align: left;
+}
+
+.mainwrap {
+    color: grey;
+    font-style: caps;
+    font-size: 12px;
+}
+
+main section {
+    font-size: 20px;
+    text-align: left;
+}
+
+.printside p {
+    color: grey;
+    font-style: caps;
+    font-size: 12px;
+}
+
+#chocomainpizza {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+section ul {
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+section ul li {
+    padding: 5px;
+}
+
+.firstlineingredients {
+    float: left;
+    margin-left: 100px;
+    padding-left: 30px;
+    text-align: left;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.secondlineingredients {
+    float: right;
+    margin-right: 100px; 
+    padding-left: 150px;
+    text-align: left;
+    font-family: 'Varela Round', sans-serif;
+
+} 
+
+.notepad {
+    background-image: url("/images/list-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: '';
+    display: table;
+    clear: both;
+
+}
+
+
+/* ----- Vanessa ----- */
+
+.vanessa img, article {
+   float: left;
+}
+
+button {
+    float: right;
+}
+
+.vanessa {
+    margin-top: 30px;
+}
+
+
+
+/* ----- footer ----- */
+
+footer {
+    clear: both;
+    text-align: center;
+
+}
+
+
+
+
+/* ----- article ----- */
+
+
+
+/* ----- section ----- */
+
+
+/* ----- images ----- */
